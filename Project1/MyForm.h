@@ -171,7 +171,7 @@ namespace Zavdanny_2 {
 			this->Controls->Add(this->btnClear);
 			this->Controls->Add(this->btnSolve);
 			this->Name = L"MyForm";
-			this->Text = L"Метод Бісекцій";
+			this->Text = L"3";
 			this->Load += gcnew System::EventHandler(this, &MyForm::MyForm_Load);
 			this->ResumeLayout(false);
 			this->PerformLayout();
